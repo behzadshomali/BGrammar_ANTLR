@@ -1,0 +1,99 @@
+
+\\ Importing libraries and functions
+\\MATH = require math_lib
+\\set = from Algorithm require SET
+
+\\ Defining class
+##
+class Dog extends Animal implements Eating {
+    walking = (float speed, int age) => {
+	energy -= (spped*0.1 + age**0.5)
+	return energy ;
+    }
+}
+##
+
+##
+\\ Defining functions
+sum = (	int num1, int num2) => {
+    \\This function return the sum of num1 and num2
+    let int ans = num1 + num2 ;
+    return num1 
+}
+
+abs = (float input) => {
+    \\This function return the absolute value of input
+    if (input < 0){
+	 input = -input ;
+    }
+    return input 
+ }
+##
+main {
+ ##
+    while(12- 43 < 34 ** x2 or not x4 * 5 << 2 <= 12 and 23 < 45){ 
+	x5 = x4 - 32 * x1 // 12 - 1.5 ** 3;
+    }
+ ##
+
+    \\ Flow control section 
+##    if ( string1 == string_2 or len < 20 and TRUE){
+	 for (auto char in string){
+	    text += char ;
+	 }
+    }
+    else if (12.5 **2 % 3 == 0 or size != 0){
+	x_train = data[0:25];
+    }
+    else if ( x1 == 10 or x2 == x2 ** 12 - 34 / 12){
+	 \\ Nothing to do here! just pass this scope...
+    }##
+\\    else{
+##    switch (Gender) {
+	case male:
+	    m_count += 1
+	    TOTAL -= 1 ;
+	    break;
+	case female:
+	    f_count += 1 ;
+	    TOTAL = TOTAL - 1;
+	    break
+	default:
+    }
+
+    \\ Loops
+    while (TRUE and size != empty){
+	input_num //= 2;
+	if(input_num == 0){
+	    break;
+	}
+    }
+##
+    for (count in [0:24] step 1){
+   	 if ( string1 == string_2 or len < 20 and TRUE){					        ans = (x1-2**4) << 2 - (5*x1**x2);
+   	 }
+    }
+##    for (indx in [100:0] step -1) {
+	a1 *= indx//2 ;
+	b1 = a1 * c2	;
+    }
+    \\ Defining and also assigning
+    let int num1 = 1
+    const int a2 = 10, a1 , b3 = 25;
+    const float f1 = f2 = f3 = f4 = 234.32 ;
+    const int[] array = data[12:45]
+    let int[] set1 = set2 = set[12:45];
+    \\ Assigning 
+    age += 1 ;
+    data_train = data[50:100]
+    name_copy = name ;
+    volume = a1*a2*a3
+    big_num = 4.3021e+243 ;
+
+    iota test(
+	zero = iota
+	one
+	two
+    )	    
+##
+}
