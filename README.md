@@ -1,6 +1,6 @@
 # BGrammar!
 
-This is an imaginary grammar developed in ANTLR. The supported syntax is a combination of `c++`, `Python`, `Golang`, and also some new structures!
+BGrammar (which is a combination of Behzad + Grammar) is an imaginary grammar developed in ANTLR. The supported syntax is a combination of `c++`, `Python`, `Golang`, and also some new structures!
 
 ## Quick Setup
 To be able to run the grammar, you should provide its prerequisites in advance. Following instructions are adopted from [ANTLR](https://www.antlr.org/) web-page: 
