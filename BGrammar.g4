@@ -1,8 +1,8 @@
 grammar BGrammar;
 
 // Using ';' is completely up to you
-// but you are can use it only
-// ONCE or NOT
+// but you can either use it only
+// ONCE or NOT at all
 start
     :
     (
